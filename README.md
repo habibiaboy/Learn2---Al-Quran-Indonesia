@@ -1,15 +1,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Displays the letter AL Quran number, Surah Name, and the meaning of the letter
-
-
+Displays the letter AL Quran number, Surah Name, and the meaning of the letter, API used [API Fathimah Bot](https://fathimah.docs.apiary.io/#)
 
 
 # Install
 ```php
-$ pkg update && pkg upgrade
-$ pkg install python
-$ pkg install git
 $ pip install requests
 $ git clone https://github.com/habibiaboy/Learn2---Al-Quran-Indonesia.git
 $ cd Learn2---Al-Quran-Indonesia
